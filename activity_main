@@ -1,0 +1,4 @@
+<Button    
+    android:id="@+id/btn_agregar"
+    android:background="@drawable/boton_redondo"
+    />
