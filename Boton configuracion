@@ -1,6 +1,8 @@
----------------------------------------  RES ---> DRAWABLE ---------------------------------
+---------------------------------------  RES ---> DRAWABLE ---> boton_redondo ------------------------------
 
-<?xml version="1.0" encoding="utf-8"?><shape xmlns:android="http://schemas.android.com/apk/res/android">
+<?xml version="1.0" encoding="utf-8"?>
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
 
     <!-- color y radius del boton -->    
     <solid android:color="@color/btn_verde"/>
